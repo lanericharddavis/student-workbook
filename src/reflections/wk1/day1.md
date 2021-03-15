@@ -12,4 +12,24 @@ What I learned in codeing school how to code and ____.
 
 3. What is the difference between Git and GitHub
 
-Complete Week 1 Vocabulary
+## Links
+<!--Comment -->
+[link-text](https://google.com)
+
+## Images
+![alt text here](https://placehold.it/200x200)
+
+## Font-styling
+*italics*
+**bold**
+***bold italics***
+_strikethrough_
+>This is a quote it gets a little call out box
+
+multiline
+`This is a code it has a weird highlight`
+
+```javascript
+var x = 17
+x*3
+```
