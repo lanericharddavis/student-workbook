@@ -1,10 +1,7 @@
-#Day 3 Wire-Framing
+# Day 3 - Bootstrap
 
-##Daily Journal
-*Read Building Blocks Of Web Development > Wire-framing: A Comprehensive Guide and answer the following questions*
+## My favorite tip that you think is the most beneficial to improving your design?
 
-1. What is the purpose of wire-framing?
+## Resources that might be helpful when trying to review examples of good design ideas.
 
-2. What are the different levels of detail in wire-frames and why is each one useful?
-
-3. Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
+## How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
