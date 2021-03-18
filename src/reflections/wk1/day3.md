@@ -9,3 +9,6 @@ The big tech giant's websites such as google and apple are always a solid exampl
 
 ## How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 Influencial websites that keep drawing in visitors are the ones that are stream-line, easy on the eyes, and user-friendly to the point of stupidity.  If a child can figure out how to navagate and use a website without prior guidance, that is a well designed website.
+
+
+## Link to "clone-site" afternoon challenge: https://github.com/lanericharddavis/cloneSite
