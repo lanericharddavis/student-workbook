@@ -1,7 +1,7 @@
 # Week 1 Refection
 
 ## Things Learned This Week
-
+This week was challenging but also rewarding.  Which is one of the reason why I want to become a developer.  
 
 ## Things Still Struggling With
 
@@ -10,3 +10,7 @@
 
 
 ## Overall Take On Week
+
+
+## CheckPoint Challenge
+https://github.com/lanericharddavis/cloneSiteCheckPoint
