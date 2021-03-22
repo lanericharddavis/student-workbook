@@ -12,3 +12,6 @@ Influencial websites that keep drawing in visitors are the ones that are stream-
 
 
 ## Link to "clone-site" afternoon challenge: https://github.com/lanericharddavis/cloneSite
+
+Clone-Site Live Site:
+https://lanericharddavis.github.io/cloneSite/.

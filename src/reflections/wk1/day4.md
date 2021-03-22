@@ -16,3 +16,6 @@ Wire-framing is 100% worth the time, energy, and effort.  Pending on the size an
 
 
 ## Link to "Webpage Clone" afternoon Challenge which was built in collaboration with Austin Downey:  https://github.com/lanericharddavis/JohnDeere-Challenge
+
+Webpage Clone Live Site:
+https://lanericharddavis.github.io/JohnDeere-Challenge/.
