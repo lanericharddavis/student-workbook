@@ -14,3 +14,6 @@ This week was challenging but also rewarding.  Which is one of the reason why I 
 
 ## CheckPoint Challenge
 https://github.com/lanericharddavis/cloneSiteCheckPoint
+
+CheckPoint Challenge Live Site:
+https://lanericharddavis.github.io/cloneSiteCheckPoint/
