@@ -15,4 +15,4 @@ VAR: VAR is hoisted, scope focused, meaning that it operates within the scope it
 LET: LET is non-hoisted, can be updated but not re-declared, block focused and is the preferred method of variable declaration.  A block is code inside of { }.  
 <br>
 <br>
-CONST: CONST is non-hoisted, can not be updated or reassigned, and is block scoped.
+CONST: CONST is non-hoisted, can not be updated or reassigned, and is block scoped.  Also, CONST must be initialized during declaration.
