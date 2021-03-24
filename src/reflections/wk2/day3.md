@@ -10,3 +10,8 @@ The Elements Tab.  This tab is extremely helpful with building out the layout an
 
 ## Outside of writing everything to the console, what is a better way to debug your code?
 The "debugger" key word in your code.  This will stop the code from running on that line and let you go step by step through the actions of your code.  You can see when exactly variables/properties get assigned by hovering your pointer over after that step was completed.  Allowing the user to step through the code line by line to see when and why errors are appearing helps the debugging process ten fold.
+
+
+
+## Rock-Paper-Scissors Game live site:
+ https://lanericharddavis.github.io/rock-paper-scissors/
