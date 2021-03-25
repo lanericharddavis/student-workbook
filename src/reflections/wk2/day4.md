@@ -5,3 +5,6 @@
 ## How do you find answers when you are stuck?
 
 ## From the entire article what are you biggest takeaways?
+
+## SlapGame Afternoon Challenge live link:
+ https://lanericharddavis.github.io/slapGame/
