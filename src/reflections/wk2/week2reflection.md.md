@@ -14,3 +14,6 @@ I struggle with taking the basic structure of JavaScript, and tying them into ea
 
 ## Overall Take On Week
 Overall, this was a really challenging week for me.  When in lecture, things make sense when they are being explained while they are being built out, but when it comes time to start building it out on my own, I seem to forget everything he went over and everything that made sense earlier is not foreign.  I've been trying to take better notes so I can reference stuff while on my own which is helping a little.  I think I just need more practice... and time in the day.
+
+## Week 2 Check Point: Idle Clicker Game: Fish Clicker:
+ https://lanericharddavis.github.io/idle-clicker-game/
