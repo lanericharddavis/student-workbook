@@ -1,4 +1,4 @@
-# Day 3 | Encapsulation
+# Day 2 | Encapsulation
 
 ## What is the purpose of Encapsulation?
 Encapsulation gives developers a way of storing data in objects privately, and the only way to access that data is through the object's methods.  As Alan Kay describes it, "local retention and protection and hiding of state-process."  
@@ -7,3 +7,6 @@ Code that is accessed through underscores are most often internal properties and
 
 ## How do we create private variables in a ES6 Class?  Why would you do this?
 Through lexical environments.  It is a method which is privileged and has access to the private data inside the containing function's scope.  They have reference-based access to the containing function's variables even after the containing function has returned.
+
+Afternoon Challenge live link: Vending Machine:
+https://lanericharddavis.github.io/vending-machine/
