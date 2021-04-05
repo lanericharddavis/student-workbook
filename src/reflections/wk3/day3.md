@@ -1,7 +1,7 @@
 # Day 3 | Forms and Templates
 
 ## What are the two common operations that we will set in the handler?
-Get and Set
+Get and Set.
 
 ## What do you have to make sure you are doing with every Get to insure the value does not become undefined?
 You need to create a proxy object.  Creating a proxy object creates custom logic specified by the handler object for 'get' and 'set'.

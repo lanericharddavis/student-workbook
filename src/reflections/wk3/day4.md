@@ -10,3 +10,6 @@ The subscribe method, the unsubscribe method and the broadcast method.
 
 ## Link to Sporting Good Depot:
  https://lanericharddavis.github.io/sportinggoodsdepot/.
+
+ ## Link to Wk3 CheckPoint: TaskMaster
+https://lanericharddavis.github.io/taskmaster/
