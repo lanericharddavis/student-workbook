@@ -11,3 +11,6 @@
   1) Keep code shallow
   2) Modularize
   3) Handle every single error
+
+## Link for Afternoon Challenge | Trivia Game: API Practice:
+https://lanericharddavis.github.io/triviaapi/
