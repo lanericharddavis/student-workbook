@@ -20,7 +20,7 @@ Open-Closed principle
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
 ```
-
+A callback is essentially a function passed into another function as an argument.
 ```
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
@@ -45,15 +45,15 @@ The Service.
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is what safeguards values of structured data objects inside a class.  It prevents unauthorized people direct access to the data.
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+Response codes that are considered successful are anything between 200-299.  200 being 'OK' which means the request has succeeded.
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-It is a server error response indicating that the server encountered  an unexpected condition that prevented it from fulfilling the request.  It is usually a general "catch-all" error.
+Internal Server Error: A server error response indicating that the server encountered  an unexpected condition that prevented it from fulfilling the request.  It is usually a general "catch-all" error.
 ```
