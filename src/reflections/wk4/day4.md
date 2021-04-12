@@ -10,3 +10,6 @@ Some patterns used when writing RESTful APIs are somewhat straight forward such 
 
 ## Afternoon Challenge Link  |  Music-Is-Fun: iTunes API:
 https://lanericharddavis.github.io/Music-Is-Fun/
+
+## Wk4 Checkpoint Challenge | Inspire:
+https://lanericharddavis.github.io/inspire/

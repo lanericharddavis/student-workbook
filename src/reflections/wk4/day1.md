@@ -7,7 +7,6 @@
   Asynchronous, or 'async' for short, is a fancy word meaning, 'this happens in the future, not right now'. The action involve may still happen, but the execution of it may not necessarily be called until later.
 
 ## Summarize the 3 ways to avoid / fix Callback Hell
-    *Elaborate on these...
   1) Keep code shallow
   2) Modularize
   3) Handle every single error
