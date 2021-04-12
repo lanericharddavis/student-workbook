@@ -7,4 +7,5 @@
 ## When do you think Query parameters would be helpful when writing your server?
   Using query parameters would probably handy if you were looking for a specific query.  Once you know how to structure the query string, you can quickly reference things quicker than diving into the code itself.
 
-## Afternoon Challenge |
+## Afternoon Challenge | Node Day1:
+https://lanericharddavis.github.io/burger-node-day1/
