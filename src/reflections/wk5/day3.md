@@ -6,4 +6,5 @@
 
 ## How do you add to a collection of sub-documents? What about editing them?
 
-## Afternoon Challenge |
+## Afternoon Challenge | Planet Relationships
+https://lanericharddavis.github.io/planets/
