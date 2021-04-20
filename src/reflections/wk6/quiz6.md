@@ -33,12 +33,12 @@ Liskov Substitution Principle: Every subclass or derived class should be substit
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+The state object will affect everything within that component where as the AppState essentially has the potential to affect over the app as a whole.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+The services serves the same purpose as it did in the MCV pattern however, it will be communicating to the AppState.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
@@ -48,7 +48,7 @@ App.vue
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-
+style, scoped
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
