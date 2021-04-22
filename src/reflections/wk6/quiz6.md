@@ -28,7 +28,7 @@ Liskov Substitution Principle: Every subclass or derived class should be substit
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+node_modules
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
