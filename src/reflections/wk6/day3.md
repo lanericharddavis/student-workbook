@@ -7,3 +7,6 @@ onMounted is a lifecycle hook that was used in the afternoon project.  See below
 
 ## What are mounting hooks? When might you use them?
 Mounting hooks allow you to access your component immediately before and after the first render.  You use them when you need to access or modify the DOM of your component.
+
+## Afternoon Challenge Link | vue-gregslist:
+https://lanericharddavis.github.io/vue-gregslist/

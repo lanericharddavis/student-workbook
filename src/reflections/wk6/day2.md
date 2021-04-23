@@ -7,3 +7,6 @@ Similar to passing variables into functions as arguments with Javascript, props 
 
 ## Where can props be used or accessed?
 Props can be used inside the template and/or the script, more specifically, watchers, lifecycle hooks, methods, or computed props.
+
+## Afternoon Challenge Link | Vue-Nasa-Api:
+https://lanericharddavis.github.io/nasa-vue-api/
