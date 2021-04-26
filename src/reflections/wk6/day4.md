@@ -8,5 +8,8 @@ Nested routes are good for organizational purposes, when you need to route compo
 ## Can you pass parameters through nested routes? When might you use them?
 Routes can be defined with dynamic segments, such as passing an ID of a specific page, like clicking on a collection of photos to view detail on one in particular.  
 
-## Afternoon Link  vueblogger:
+## Afternoon Link | vueblogger:
 https://lanericharddavis.github.io/vueblogger/
+
+## Checkpoint Link | Network:
+https://lanericharddavis.github.io/network/
