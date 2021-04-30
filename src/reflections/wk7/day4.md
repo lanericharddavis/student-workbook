@@ -5,3 +5,6 @@
 ## What went well?
 
 ## What would you do differently?
+
+## Pair Programming CheckPoint | Kanban:
+https://lanericharddavis.github.io/kanban/
