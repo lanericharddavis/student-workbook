@@ -8,3 +8,6 @@ We both of us being around the same skill set, I think we helped each other lear
 I would implement time-boxing towards our struggles.  There were times where we both were struggling with how to approach an issue and just sat on it for too long instead of looking for outside assistance.  Also, my partner was not too confident (as am I as well), but this resulted in them typing out their code very slowly.  So as navigator, I would sometime become a 'backseat driver' and start explaining what needs to be done.  I wish that we had more time so I could've let them go at their own pace and I could guide them differently.
 ## Pair Programming CheckPoint | Kanban:
 https://lanericharddavis.github.io/kanban/
+
+## Full-Stack Solo CheckPoint | BugLog:
+https://lanericharddavis.github.io/buglog/
