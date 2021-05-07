@@ -5,7 +5,7 @@
 ```
 
 ``` 
-**2.** At what level of your project do you need package.json when deploying your application? Why?
+**2.** At what level of your project do you need package.json when  deploying your application? Why?
 <!-- enter you answer in the space below -->
 ```
 
