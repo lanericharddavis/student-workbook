@@ -1,7 +1,8 @@
 # An Honest Guide to Building a Powerful Developer Portfolio
 
 ## What function does a developer Portfolio provide?
-
+A portfolio is the best way to showcase your skills with real world applications.  Each portfolio piece provides unique answers to interview questions and give the potential employer a solid understanding of your skill level and understanding of a particular topic.
 ## What makes a Developer Portfolio effective?
-
+Quality and passion.  The quality portion is a given, you should strive to be creating the best code of your ability.  If a new skill is acquired, update your previous works and make them better!  Passion can be seen in two ways; one, that your applications resignate with you and you are truely passionate about the product and what service it provides to your audience, and two, that your passion towards reaching a desired goal is shown through your work.  Maybe the project you're working on isn't your cup of tea, but why not make it the best cup of tea anyone has tasted.
 ## What projects do you have that you would include in your Portfolio? Why?
+This would depend on type of employment I would be searching out.  If my end goal is to land a full stack developer job, then showcasing the full stack applications would be a no brainer.  Ones that I have under my belt so far are: Kanban, the organizational application which was built during my first pair programming effort.  BugLog: the log book for tracking open and closed descrepancy reports.  Lending Post: an adventure item peer to peer lending/borrowing application which was built during my first colaboration with a team.
