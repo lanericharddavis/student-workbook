@@ -9,3 +9,4 @@ SQL injection is a cyber attack that gives an adversary complete control over yo
 4) Second-order SQL: delayed attack
 
 ## How can we detect and sanitize SQL injection attacks?
+You can sanitize SQL injection attacks by reviewing your DB frequently and running tests so ensure it is working correctly. 
