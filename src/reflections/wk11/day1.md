@@ -8,3 +8,6 @@ A derived class inherits the members of it's base class, so if Class1 is the bas
 
 ## How does accessibility affect inheritance?
 If a Class is public, it can be inherited from.  If Private, it limits accessibility of members to classes within the defined type.  If Protected, members become accessible only when a child is inherited by the parent.
+
+## Link to afternoon challenge | BurgerShack in C#:
+https://lanericharddavis.github.io/spring21-burgershack/

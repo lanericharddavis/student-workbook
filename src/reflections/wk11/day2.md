@@ -31,3 +31,6 @@ CREATE TABLE doctors (
     REFERENCES patients(id),
 )
 ```
+
+## Link to Afternoon Challenge | Contracted:
+https://github.com/lanericharddavis/contracted.git
